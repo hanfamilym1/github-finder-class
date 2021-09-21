@@ -2,7 +2,7 @@
 
 This project was created while taking the Udemy class called React Front To Back with Brad Traversy
 
-Can be found on [Netlify](www.hanmichael.com)
+Project hosted on [Netlify](https://determined-mayer-1e6f89.netlify.app/)
 
 ## What I Learned
 
